@@ -13,7 +13,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "lodash": "^4.17.20",
-    "puppeteer": "^2.1.1",
+    "puppeteer": "^18.2.0",
     "puppeteer-extra": "^3.1.9",
     "puppeteer-extra-plugin-stealth": "^2.4.9"
   },
